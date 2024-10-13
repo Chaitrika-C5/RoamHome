@@ -1,0 +1,316 @@
+{
+  "hostler": [
+    {
+      "username": "srinu",
+      "password": "srinu",
+      "email": "srinu@gmail.com",
+      "mobile": "9441854541",
+      "id": "6110"
+    },
+    {
+      "id": "7b0b",
+      "username": "chaitu",
+      "email": "chaitu@gmail.com",
+      "password": "chaitu",
+      "confirmpassword": "chaitu",
+      "mobile": "9491070035",
+      "usertype": "Hostler",
+      "hostelBookingDetails": [
+        {
+          "fullName": "Santhi",
+          "email": "santhi@gmail.com",
+          "primaryPhone": "9848437067",
+          "altPhone": "",
+          "dob": "2024-09-13",
+          "gender": "Female",
+          "prof": "Student",
+          "hostelName": "santhi residents",
+          "roomType": "private rooms",
+          "address": "37-4-10, watertankroad, 4th street\nBadavapet",
+          "guardianName": "Srinivasa Rao",
+          "guardianPhone": "9848437067",
+          "stay": "6 months"
+        },
+        {
+          "fullName": "Chaitrika",
+          "email": "srinusravanthin@gmail.com",
+          "primaryPhone": "9848437067",
+          "altPhone": "",
+          "dob": "2004-10-27",
+          "gender": "Female",
+          "prof": "Student",
+          "hostelName": "skanthi residents",
+          "roomType": "Something",
+          "address": "37-4-10, watertankroad, 4th street\nBadavapet",
+          "guardianName": "Srinivasa Rao",
+          "guardianPhone": "9848437067",
+          "stay": "6 months"
+        }
+      ]
+    }
+  ],
+  "hostelmanagement": [
+    {
+      "id": "d361",
+      "username": "skanthi",
+      "email": "skanthi@gmail.com",
+      "password": "skanthi",
+      "confirmpassword": "skanthi",
+      "mobile": "7396989164",
+      "usertype": "Hostel Management",
+      "properties": [
+        {
+          "hostelName": "skanthi residents",
+          "address": "37-4-10, watertankroad, 4th street",
+          "city": "Vijayawada",
+          "state": "Andhraprades",
+          "pinCode": "520010",
+          "primaryPhone": "9848437067",
+          "altPhone": "",
+          "email": "srinusravanthin@gmail.com",
+          "Hosteltype": "Girls",
+          "hostelOverview": "Skanthi Residents is a wide open hostel for girls where protection of girls is first priority",
+          "roomTypes": [
+            {
+              "name": "Something",
+              "description": "Something consists beds",
+              "available": "05",
+              "occupancy": "2",
+              "monthlyRate": "100",
+              "sixRate": "",
+              "yearlyRate": ""
+            },
+            {
+              "name": "ghldf",
+              "description": "dkjcnhfiueh",
+              "available": "2",
+              "occupancy": "2",
+              "monthlyRate": "4999",
+              "sixRate": "",
+              "yearlyRate": ""
+            }
+          ],
+          "facilities": [],
+          "photos": [],
+          "allowPets": "yes",
+          "smokingAllowed": "yes",
+          "wifiAvailable": "yes",
+          "acType": "AC",
+          "hotWaterAvailable": "yes",
+          "laundary": "yes",
+          "laundaryfee": "500",
+          "messtypes": "Select",
+          "messfee": "100",
+          "cancellationPolicy": "ecfe",
+          "houseRules": "sdc",
+          "paymentOptions": "Other"
+        },
+        {
+          "hostelName": "santhi residents",
+          "address": "37-4-10, watertankroad, 4th street, Badavapet",
+          "city": "Vijayawada",
+          "state": "State",
+          "pinCode": "520010",
+          "primaryPhone": "09441854541",
+          "altPhone": "",
+          "email": "santhi@gmail.com",
+          "Hosteltype": "Girls",
+          "hostelOverview": "djahdhdu ",
+          "roomTypes": [
+            {
+              "name": "private rooms",
+              "description": "fklvne",
+              "available": "3",
+              "occupancy": "1",
+              "monthlyRate": "50",
+              "sixRate": "",
+              "yearlyRate": ""
+            },
+            {
+              "name": "4 bed dorm",
+              "description": ";f,sdcf,msrdfm,mf",
+              "available": "5",
+              "occupancy": "4",
+              "monthlyRate": "200",
+              "sixRate": "",
+              "yearlyRate": ""
+            }
+          ],
+          "facilities": [],
+          "photos": [],
+          "allowPets": "yes",
+          "smokingAllowed": "yes",
+          "wifiAvailable": "yes",
+          "acType": "Both",
+          "hotWaterAvailable": "yes",
+          "laundary": "yes",
+          "laundaryfee": "500",
+          "messtypes": "Select",
+          "messfee": "50",
+          "cancellationPolicy": "sdvaskv",
+          "houseRules": "kdnmfvlk",
+          "paymentOptions": "Cash"
+        }
+      ],
+      "hostelBookingDetails": [
+        {
+          "fullName": "Santhi",
+          "email": "santhi@gmail.com",
+          "primaryPhone": "9848437067",
+          "altPhone": "",
+          "dob": "2024-09-13",
+          "gender": "Female",
+          "prof": "Student",
+          "hostelName": "santhi residents",
+          "roomType": "private rooms",
+          "address": "37-4-10, watertankroad, 4th street\nBadavapet",
+          "guardianName": "Srinivasa Rao",
+          "guardianPhone": "9848437067",
+          "stay": "6 months"
+        },
+        {
+          "fullName": "chaitu",
+          "email": "chaitu@gmail.com",
+          "primaryPhone": "73969891064",
+          "altPhone": "",
+          "dob": "2024-09-06",
+          "gender": "Female",
+          "prof": "Employee",
+          "hostelName": "skanthi residents",
+          "roomType": "Something",
+          "address": "37-4-10, watertankroad, 4th street\nBadavapet",
+          "guardianName": "Srinivasa Rao",
+          "guardianPhone": "09441854541",
+          "stay": "6 months"
+        },
+        {
+          "fullName": "Chaitrika",
+          "email": "srinusravanthin@gmail.com",
+          "primaryPhone": "9848437067",
+          "altPhone": "",
+          "dob": "2004-10-27",
+          "gender": "Female",
+          "prof": "Student",
+          "hostelName": "skanthi residents",
+          "roomType": "Something",
+          "address": "37-4-10, watertankroad, 4th street\nBadavapet",
+          "guardianName": "Srinivasa Rao",
+          "guardianPhone": "9848437067",
+          "stay": "6 months"
+        }
+      ]
+    },
+    {
+      "id": "28ee",
+      "username": "madhu",
+      "email": "madhu@gmail.com",
+      "password": "madhu",
+      "confirmpassword": "madhu",
+      "mobile": "8106489164",
+      "usertype": "Hostel Management",
+      "properties": [
+        {
+          "hostelName": "madhu residents",
+          "address": "37-4-10, watertankroad, 4th street",
+          "city": "Vijayawada",
+          "state": "Andhrapradesh",
+          "pinCode": "520010",
+          "primaryPhone": "9848437067",
+          "altPhone": "",
+          "email": "srinusravanthin@gmail.com",
+          "Hosteltype": "Boys",
+          "hostelOverview": "/d.vjjdijde where protection doest matter",
+          "roomTypes": [
+            {
+              "name": "private",
+              "description": "fvbmde",
+              "available": "2",
+              "occupancy": "1",
+              "monthlyRate": "20",
+              "sixRate": "",
+              "yearlyRate": ""
+            },
+            {
+              "type": "",
+              "name": "2 bed dorm",
+              "description": "kjcfnkj",
+              "available": "5",
+              "occupancy": "2",
+              "monthlyRate": "250",
+              "sixRate": "",
+              "yearlyRate": ""
+            }
+          ],
+          "facilities": [],
+          "photos": [],
+          "allowPets": "yes",
+          "smokingAllowed": "no",
+          "wifiAvailable": "yes",
+          "acType": "AC",
+          "hotWaterAvailable": "yes",
+          "laundary": "yes",
+          "laundaryfee": "200",
+          "messtypes": "Both",
+          "messfee": "500",
+          "cancellationPolicy": "tfggv",
+          "houseRules": "rgver",
+          "paymentOptions": "CreditCard"
+        },
+        {
+          "hostelName": "Madhu Residents ",
+          "address": "37-4-10, watertankroad, 4th street, Badavapet",
+          "city": "Vijayawada",
+          "state": "State",
+          "pinCode": "520010",
+          "primaryPhone": "09441854541",
+          "altPhone": "",
+          "email": "madhu@gmail.com",
+          "Hosteltype": "Girls",
+          "hostelOverview": "fvgecffe",
+          "roomTypes": [
+            {
+              "name": "super deluxe bed",
+              "description": "dcvdde",
+              "available": "5",
+              "occupancy": "5",
+              "monthlyRate": "50",
+              "sixRate": "",
+              "yearlyRate": ""
+            }
+          ],
+          "facilities": [],
+          "photos": [],
+          "allowPets": "yes",
+          "smokingAllowed": "yes",
+          "wifiAvailable": "yes",
+          "acType": "Both",
+          "hotWaterAvailable": "yes",
+          "laundary": "yes",
+          "laundaryfee": "200",
+          "messtypes": "Both",
+          "messfee": "99",
+          "cancellationPolicy": "klknmlcfknd",
+          "houseRules": ";l,gkm;decfkml",
+          "paymentOptions": "Online"
+        }
+      ],
+      "hostelBookingDetails": [
+        {
+          "fullName": "Sravanthi N",
+          "email": "srinusravanthin@gmail.com",
+          "primaryPhone": "09441854541",
+          "altPhone": "",
+          "dob": "2024-09-13",
+          "gender": "Female",
+          "prof": "Student",
+          "hostelName": "madhu residents",
+          "roomType": "private",
+          "address": "37-4-10, watertankroad, 4th street, Badavapet\nBadavapet",
+          "guardianName": "Srinivasa Rao",
+          "guardianPhone": "9848437067",
+          "stay": "6 months"
+        }
+      ]
+    }
+  ]
+}
